@@ -392,12 +392,3 @@ No thermal throttling observed during sustained workload.
 
 ---
 
-# Author
-
-**Aniket Nath**
-
-Electronics & Telecommunication Engineering
-
-COEP Technological University
-
-GPU Side-Channel Research Internship
